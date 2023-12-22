@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877231626281",
+    "project_id": "shopapp-246ea",
+    "storage_bucket": "shopapp-246ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877231626281:android:d2c36d72c582fc96076438",
+        "android_client_info": {
+          "package_name": "com.thanhphuc.shopAPP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJI8Loqrj6X5CeefL0t99eDFjk12bw3K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
